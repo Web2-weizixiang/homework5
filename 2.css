@@ -1,0 +1,11 @@
+h2{
+	font-weight:700;
+	line-height:40px;
+}
+p{
+	font-size:12px;
+	line-height:20px;
+}
+input[type="image"]{
+	vertical-align:middle;
+}
